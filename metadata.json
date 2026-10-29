@@ -1,0 +1,8 @@
+{
+  "name": "Remix TravelLens AI",
+  "description": "Discover India’s rich culture, history, and hidden gems through an intelligent, AI-powered travel exploration and discovery platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
